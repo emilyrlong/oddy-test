@@ -1,0 +1,171 @@
+Batch,Index,Material Name,Results,Image,ResultsCu,ResultsAg,ResultsPb,Comments,Tester,Date tested,Test Results,Test(s) Used,Material Type
+Batch 1,153,"6 mm ""Sintra""",P,oddy_autry_153.jpg,,,,,Autry,2/1/2011,P no contact,Oddy Test,BOARD
+,1485,Rhoplex N-580,U,oddy_cma_1485.jpg,,,,,CMA,9/22/2013,Fail,Oddy Test,"adhesive, pressure sensitive"
+,1486,Purple Nitrile gloves,U,oddy_cma_1486.jpg,,,,,CMA,5/10/2013,fail,Oddy Test,"barrier, glove"
+,1497,Felt 31-220 tan,P,oddy_cma_1497.jpg,,,,,CMA,8/27/2014,PASS,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1498,Felt 31-220 Terracotta,U,oddy_cma_1498.jpg,,,,,CMA,8/27/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1499,Felt 31-220 white,P,oddy_cma_1499.jpg,,,,,CMA,8/27/2014,PASS,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1500,Felt 31-220 Black,T,oddy_cma_1500.jpg,,,,,CMA,8/27/2014,"Temporary Use, no contact with object",Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1501,Felt 31-220 Cool Gray,P,oddy_cma_1501.jpg,,,,,CMA,8/27/2014,PASS,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1502,Felt 31-220 Dark Brown,T,oddy_cma_1502.jpg,,,,,CMA,8/27/2014,"Temporary Use, no contact with object",Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1503,Felt 31-220 Ivory,T,oddy_cma_1503.jpg,,,,,CMA,8/27/2014,"Temporary Use, no contact with obejct",Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1504,Felt 31-220 Moss,T,oddy_cma_1504.jpg,,,,,CMA,8/27/2014,"Temporary Use, no contact with object",Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1505,Felt 31-220 Warm Gray,U,oddy_cma_1505.jpg,,,,,CMA,8/27/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1506,"Sueded Polyethylene, moleskin 35-220 Beige",P,oddy_cma_1506.jpg,,,,,CMA,8/27/2014,PASS,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1507,"Sueded Polyethylene, moleskin 35-220 brown",U,oddy_cma_1507.jpg,,,,,CMA,8/27/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1508,"Sueded Polyethylene, moleskin 35-220 Creme",U,oddy_cma_1508.jpg,,,,,CMA,8/27/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1509,"Sueded Polyethylene, moleskin 35-220 white",P,oddy_cma_1509.jpg,,,,,CMA,8/27/2014,PASS,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1510,"Sueded Polyethylene, moleskin 35-220 Camel Hair",U,oddy_cma_1510.jpg,,,,,CMA,9/15/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1511,"Sueded Polyethylene, moleskin 35-220 steel grey",T,oddy_cma_1511.jpg,,,,,CMA,8/27/2014,"Temporary Use, no contact with object",Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1512,"Sueded Polyethylene, moleskin 35-220 warm black",T,oddy_cma_1512.jpg,,,,,CMA,8/27/2014,"Temporary Use, not contact with object",Oddy Test and Sodium Azide test,Fabric- batting & padding
+,1530,Gray Ecru 1543,P,oddy_cma_1530.jpg,,,,,CMA,6/7/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1536,Kamla Arabica #215,P,oddy_cma_1536.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1537,Kamla Ash #211,P,oddy_cma_1537.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1538,Kamla Mocha #216,P,oddy_cma_1538.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1539,Kamla tamarind #41,P,oddy_cma_1539.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1540,Kamla taupe #209,P,oddy_cma_1540.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1541,Kamla Garnet #07,P,oddy_cma_1541.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1545,Kamla Pewter #35,U,oddy_cma_1545.jpg,,,,,CMA,5/10/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1546,Kamla Rajah #12,U,oddy_cma_1546.jpg,,,,,CMA,5/10/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1547,Lighter Dark Gray,P,oddy_cma_1547.jpg,,,,,CMA,6/7/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1548,Novasuede Bordeaux T3J5W,T,oddy_cma_1548.jpg,,,,,CMA,7/19/2013,Temporary Use,Oddy Test,Fabric- exhibition/woven
+,1550,Novasuede Jade T3PEW,U,oddy_cma_1550.jpg,,,,,CMA,7/19/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1552,Novasuede Mauve T3R1W,U,oddy_cma_1552.jpg,,,,,CMA,7/19/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1554,Novasuede Sable T3I8W,U,oddy_cma_1554.jpg,,,,,CMA,7/19/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+Batch 2,1555,Novasuede Teal T3N1W,T,oddy_cma_1555.jpg,,,,,CMA,7/19/2013,Temporary Use,Oddy Test,Fabric- exhibition/woven
+,1560,Sensuede Black 2531,U,oddy_cma_1560.jpg,,,,,CMA,12/5/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1561,Sensuede Chocolate 2456,P,oddy_cma_1561.jpg,,,,,CMA,12/5/2014,PASS,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1562,Sensuede Cloud 2507,U,oddy_cma_1562.jpg,,,,,CMA,12/5/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1563,Sensuede Cocoa 2064,T,oddy_cma_1563.jpg,,,,,CMA,12/5/2014,Temporary Use,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1564,Sensuede Cordovan 9,U,oddy_cma_1564.jpg,,,,,CMA,12/5/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1565,Sensuede Ebony 2050,U,oddy_cma_1565.jpg,,,,,CMA,12/5/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1566,Sensuede Incense 2629,U,oddy_cma_1566.jpg,,,,,CMA,12/5/2014,FAIL,Sodium Azide and Oddy Test,Fabric- exhibition/woven
+,1567,Sensuede Loam 2141,U,oddy_cma_1567.jpg,,,,,CMA,12/5/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1568,Sensuede Mink 2637,T,oddy_cma_1568.jpg,,,,,CMA,12/5/2014,Temporary Use,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1571,Sensuede Rain 2004,T,oddy_cma_1571.jpg,,,,,CMA,12/5/2014,Temporary Use,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1572,Sensuede Sistine Grey 2081,U,oddy_cma_1572.jpg,,,,,CMA,12/5/2014,FAIL,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1573,Sensuede Tan 2305,T,oddy_cma_1573.jpg,,,,,CMA,12/5/2014,Temporary Use,Oddy Test and Sodium Azide test,Fabric- exhibition/woven
+,1576,"Testfabrics Cotton Sateen 479-58""",U,oddy_cma_1576.jpg,,,,,CMA,6/7/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1577,"Testfabrics Cotton Sateen 479-58""",U,oddy_cma_1577.jpg,,,,,CMA,6/7/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1579,Ultra IV 122,P,oddy_cma_1579.jpg,,,,,CMA,3/8/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1582,Ultra IV 407,U,oddy_cma_1582.jpg,,,,,CMA,3/8/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1583,Ultra IV 421,U,oddy_cma_1583.jpg,,,,,CMA,3/8/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1586,Ultra IV 116,P,oddy_cma_1586.jpg,,,,,CMA,5/10/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1587,Ultra IV 116,U,oddy_cma_1587.jpg,,,,,CMA,9/19/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1589,Ultra IV 121,U,oddy_cma_1589.jpg,,,,,CMA,5/10/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1592,Ultra IV 336,P,oddy_cma_1592.jpg,,,,,CMA,3/8/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1593,Ultra IV 401,P,oddy_cma_1593.jpg,,,,,CMA,3/8/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1594,Ultra IV 404,P,oddy_cma_1594.jpg,,,,,CMA,3/8/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1596,Ultra IV 406,U,oddy_cma_1596.jpg,,,,,CMA,3/8/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1597,Ultra IV 415,U,oddy_cma_1597.jpg,,,,,CMA,3/8/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1598,Ultra IV 416,U,oddy_cma_1598.jpg,,,,,CMA,3/8/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1600,Ultra IV 431,U,oddy_cma_1600.jpg,,,,,CMA,3/8/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1601,Ultra IV 436,P,oddy_cma_1601.jpg,,,,,CMA,3/8/2013,PASS,Oddy Test,Fabric- exhibition/woven
+,1604,Unbleached Cotton Flannel (Unwashed),U,oddy_cma_1604.jpg,,,,,CMA,5/10/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1605,Unbleached Cotton Flannel (Washed),U,oddy_cma_1605.jpg,,,,,CMA,5/10/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1629,Unisono III-150 91,U,oddy_cma_1629.jpg,,,,,CMA,9/19/2013,FAIL,Oddy Test,Fabric- exhibition/woven
+,1667,black rabbet tape,U,oddy_cma_1667.jpg,,,,,CMA,8/22/2013,fail,Oddy test,gasket
+Batch 3,1844,3M Double Sided Tape,U,oddy_hcc_1844.jpg,,,,,HCC,2/14/2019,FAIL,Oddy Test,---
+,1845,Aqua Woodguard,P,oddy_hcc_1845.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,---
+,1846,Kap Bond Acid-free Repair Glue,U,oddy_hcc_1846.jpg,,,,,HCC,2/14/2019,FAIL,Oddy Test,---
+,1847,ProSorb Humidity Stabiliser,P,oddy_hcc_1847.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,---
+,1848,Marveal Seal equivalent,P,oddy_hcc_1848.jpg,,,,,HCC,6/28/2018,PASS,Oddy Test,aluminium foil
+,1849,Carbon Fibre Fabric,P,oddy_hcc_1849.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Carbon fibre
+,1850,Glassine,P,oddy_hcc_1850.jpg,,,,,HCC,6/28/2018,PASS,Oddy Test,coated paper
+,1851,BARRIKADE EP TERRAZZO,P,oddy_hcc_1851.jpg,,,,,HCC,3/20/2018,PASS,Oddy Test,Epoxy
+,1852,Epocite 1004 T,P,oddy_hcc_1852.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Epoxy
+,1853,StoPox BB T 200,P,oddy_hcc_1853.jpg,,,,,HCC,8/23/2018,PASS,Oddy Test,Epoxy Terrazzo Coating System for Floors
+,1854,COTTON JERSEY,P,oddy_hcc_1854.jpg,,,,,HCC,2/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1855,"COTTON, HJ 3300",U,oddy_hcc_1855.jpg,,,,,HCC,2/16/2017,FAIL,Oddy Test,Fabric- exhibition/woven
+,1856,"COTTON, P 33",U,oddy_hcc_1856.jpg,,,,,HCC,2/16/2017,FAIL,Oddy Test,Fabric- exhibition/woven
+,1857,"COTTON, RM ultra 439",P,oddy_hcc_1857.jpg,,,,,HCC,2/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1858,"COTTON, RM unisono 81",P,oddy_hcc_1858.jpg,,,,,HCC,2/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1859,"COTTON, T 3340",P,oddy_hcc_1859.jpg,,,,,HCC,2/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1860,"COTTON, T 3712",T,oddy_hcc_1860.jpg,,,,,HCC,2/16/2017,Temporary Use,Oddy Test,Fabric- exhibition/woven
+,1861,"COTTON, T 3888",P,oddy_hcc_1861.jpg,,,,,HCC,2/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1862,"COTTON, TC 36",U,oddy_hcc_1862.jpg,,,,,HCC,2/16/2017,FAIL,Oddy Test,Fabric- exhibition/woven
+,1863,"COTTON, TR 268",P,oddy_hcc_1863.jpg,,,,,HCC,2/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1864,Show case fabric T3724,P,oddy_hcc_1864.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1865,Show case fabric T3741 (21),U,oddy_hcc_1865.jpg,,,,,HCC,8/16/2017,FAIL,Oddy Test,Fabric- exhibition/woven
+,1866,Show case fabric T3867 (1),P,oddy_hcc_1866.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Fabric- exhibition/woven
+,1867,Show case fabric Umbria III Col 115,P,oddy_hcc_1867.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,Fabric- exhibition/woven
+,1868,Unisono IV col 4ll,P,oddy_hcc_1868.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,Fabric- exhibition/woven
+,1869,Cotton Tape,P,oddy_hcc_1869.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,Fiber or Thread
+,1870,"Cotton tape - Twill 3/8""",P,oddy_hcc_1870.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,Fiber or Thread
+,1871,Uni-ball Signo DX,P,oddy_hcc_1871.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Gel Ink
+,1872,StoSilent Board,P,oddy_hcc_1872.jpg,,,,,HCC,8/23/2018,PASS,Oddy Test,glass granulate
+,1873,Archival Roller,P,oddy_hcc_1873.jpg,,,,,HCC,6/28/2018,PASS,Oddy Test,paper
+,1874,MG Interleaving KRAFT paper,U,oddy_hcc_1874.jpg,,,,,HCC,6/28/2018,FAIL,Oddy Test,paper
+,1875,Card board roller,U,oddy_hcc_1875.jpg,,,,,HCC,6/28/2018,FAIL,Oddy Test,paper board
+,1876,Non-archival roller,U,oddy_hcc_1876.jpg,,,,,HCC,6/28/2018,FAIL,Oddy Test,paper board
+,1877,Artcare Archival Foam White Board,P,oddy_hcc_1877.jpg,,,,,HCC,6/28/2018,PASS,Oddy Test,"paper board, foam"
+,1878,Polyester Wadding,P,oddy_hcc_1878.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,Polyester
+,1879,EVA FOAM,U,oddy_hcc_1879.jpg,,,,,HCC,2/16/2017,FAIL,Oddy Test,Polymer foam
+Batch 4,1880,"EVA FOAM, SEV 035",T,oddy_hcc_1880.jpg,,,,,HCC,2/16/2017,TEMP,Oddy Test,Polymer foam
+,1881,MESH FABRIC 07-102/44,P,oddy_hcc_1881.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Polymer mesh
+,1882,MESH FABRIC 07-120/50,P,oddy_hcc_1882.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Polymer mesh
+,1883,MESH FABRIC 07-285/55,P,oddy_hcc_1883.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Polymer mesh
+,1884,MESH FABRIC 07-425/46,P,oddy_hcc_1884.jpg,,,,,HCC,8/16/2017,PASS,Oddy Test,Polymer mesh
+,1885,MESH FABRIC 07-64/45,U,oddy_hcc_1885.jpg,,,,,HCC,8/16/2017,FAIL,Oddy Test,Polymer mesh
+,1886,Polystyrene beads,P,oddy_hcc_1886.jpg,,,,,HCC,2/14/2019,PASS,Oddy Test,Polystyrene
+,1887,StoColor Sil In,P,oddy_hcc_1887.jpg,,,,,HCC,8/23/2018,PASS,Oddy Test,Silicate Paint
+,1888,Bainbridge Alpharag Artcare black buffered,U,oddy_hod_1888_1.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1888,Bainbridge Alpharag Artcare black buffered,U,oddy_hod_1888_2.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1889,Bainbridge Alpharag Artcare colonial cream,U,oddy_hod_1889_1.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1889,Bainbridge Alpharag Artcare colonial cream,U,oddy_hod_1889_2.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1890,Perma/Dur tan buffered barrier board,U,oddy_hod_1890_1.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1890,Perma/Dur tan buffered barrier board,U,oddy_hod_1890_2.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1891,Perma/Dur tan unbuffered barrier board,T,oddy_hod_1891_1.jpg,,,,,Hodgkins et. al.,2013,T,"Oddy Test, silver nanofilm",BOARD
+,1891,Perma/Dur tan unbuffered barrier board,T,oddy_hod_1891_2.jpg,,,,,Hodgkins et. al.,2013,T,"Oddy Test, silver nanofilm",BOARD
+,1891,Perma/Dur tan unbuffered barrier board,T,oddy_hod_1891_3.jpg,,,,,Hodgkins et. al.,2013,T,"Oddy Test, silver nanofilm",BOARD
+,1892,Rising Museum board antique buffered,U,oddy_hod_1892_1.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1892,Rising Museum board antique buffered,U,oddy_hod_1892_2.jpg,,,,,Hodgkins et. al.,2013,F,"Oddy Test, silver nanofilm",BOARD
+,1893,Rising Photomount board white unbuffered,P,oddy_hod_1893_1.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",BOARD
+,1893,Rising Photomount board white unbuffered,P,oddy_hod_1893_2.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",BOARD
+,1893,Rising Photomount board white unbuffered,P,oddy_hod_1893_3.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",BOARD
+,1894,"Mylar, 0.0005 mm",P,oddy_hod_1894_1.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm","FILM, Plastic"
+,1894,"Mylar, 0.0005 mm",P,oddy_hod_1894_2.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm","FILM, Plastic"
+,1894,"Mylar, 0.0005 mm",P,oddy_hod_1894_3.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm","FILM, Plastic"
+,1895,black volara,P,oddy_hod_1895_1.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1895,black volara,P,oddy_hod_1895_2.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1895,black volara,P,oddy_hod_1895_3.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1896,white volara,P,oddy_hod_1896_1.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1896,white volara,P,oddy_hod_1896_2.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1896,white volara,P,oddy_hod_1896_3.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1897,"white volara, 10 years old",P,oddy_hod_1897_1.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1897,"white volara, 10 years old",P,oddy_hod_1897_2.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+,1897,"white volara, 10 years old",P,oddy_hod_1897_3.jpg,,,,,Hodgkins et. al.,2013,P,"Oddy Test, silver nanofilm",FOAM
+Batch 5,2537,"0.125"" thick clear silicone rubber sheeting",P,oddy_nyul_2537_1.jpg,,,,,NYUL,4/2/2019,"Pass, Permanent",Oddy Test,Gasketing
+,2537,"0.125"" thick clear silicone rubber sheeting",P,oddy_nyul_2537_2.jpg,,,,,NYUL,4/2/2019,"Pass, Permanent",Oddy Test,Gasketing
+,2538,"4311-N with SN PSA one side (0.125""TH x 12"" x 12"")",T,oddy_nyul_2538_1.jpg,,,,,NYUL,4/2/2019,Temporary,Oddy Test,Gasketing
+,2538,"4311-N with SN PSA one side (0.125""TH x 12"" x 12"")",T,oddy_nyul_2538_2.jpg,,,,,NYUL,4/2/2019,Temporary,Oddy Test,Gasketing
+,2539,"Neoprene foam with pressure sensitive adhesive (1/2"" T x 1/2"" W x 10ft)",U,oddy_nyul_2539_1.jpg,,,,,NYUL,4/2/2019,"Fail, Unsuitable",Oddy Test,Gasketing
+,2539,"Neoprene foam with pressure sensitive adhesive (1/2"" T x 1/2"" W x 10ft)",U,oddy_nyul_2539_2.jpg,,,,,NYUL,4/2/2019,"Fail, Unsuitable",Oddy Test,Gasketing
+,2540,"Premium neoprene sponge with pressure sensitive adhesive (1/8"" x 3/4"" x 10 ft)",U,oddy_nyul_2540_1.jpg,,,,,NYUL,4/2/2019,"Fail, Unsuitable",Oddy Test,Gasketing
+,2540,"Premium neoprene sponge with pressure sensitive adhesive (1/8"" x 3/4"" x 10 ft)",U,oddy_nyul_2540_2.jpg,,,,,NYUL,4/2/2019,"Fail, Unsuitable",Oddy Test,Gasketing
+,2541,Gerflor Mipolam Symbioz,U,oddy_nyul_2541_1.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2541,Gerflor Mipolam Symbioz,U,oddy_nyul_2541_2.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2542,Gerflor Mipolam Symbioz,U,oddy_nyul_2542_1.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2542,Gerflor Mipolam Symbioz,U,oddy_nyul_2542_2.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2543,Marmoleum Piano,U,oddy_nyul_2543_1.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2543,Marmoleum Piano,U,oddy_nyul_2543_2.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2544,Marmoleum Piano,U,oddy_nyul_2544_1.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2544,Marmoleum Piano,U,oddy_nyul_2544_2.jpg,,,,,NYUL,12/11/2018,"Fail, Unsuitable",Oddy Test,Other - Flooring
+,2545,EPE #1.3 Arplank,P,oddy_nyul_2545_1.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2545,EPE #1.3 Arplank,P,oddy_nyul_2545_2.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2546,EPE #1.9 Arplank,P,oddy_nyul_2546_1.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2546,EPE #1.9 Arplank,P,oddy_nyul_2546_2.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2547,PE #2.2 New England Foam,P,oddy_nyul_2547_1.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2547,PE #2.2 New England Foam,P,oddy_nyul_2547_2.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2548,PE #4 New England Foams,P,oddy_nyul_2548_1.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2548,PE #4 New England Foams,P,oddy_nyul_2548_2.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,Polymer - foam - non building insulation
+,2549,XPLE #2 Microcell,T,oddy_nyul_2549_1.jpg,,,,,NYUL,1/30/2019,Temporary,Oddy Test,Polymer - foam - non building insulation
+,2549,XPLE #2 Microcell,T,oddy_nyul_2549_2.jpg,,,,,NYUL,1/30/2019,Temporary,Oddy Test,Polymer - foam - non building insulation
+,2550,XPLE #4 Microcell,T,oddy_nyul_2550_1.jpg,,,,,NYUL,1/30/2019,Temporary,Oddy Test,Polymer - foam - non building insulation
+,2550,XPLE #4 Microcell,T,oddy_nyul_2550_2.jpg,,,,,NYUL,1/30/2019,Temporary,Oddy Test,Polymer - foam - non building insulation
+,2551,Neoprene UChannel,P,oddy_nyul_2551_1.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,U-Channel
+,2551,Neoprene UChannel,P,oddy_nyul_2551_2.jpg,,,,,NYUL,1/30/2019,"Pass, Permanent",Oddy Test,U-Channel
+,2552,Neoprene UChannel,U,oddy_nyul_2552_1.jpg,,,,,NYUL,1/30/2019,"Fail, Unsuitable",Oddy Test,U-Channel
+,2552,Neoprene UChannel,U,oddy_nyul_2552_2.jpg,,,,,NYUL,1/30/2019,"Fail, Unsuitable",Oddy Test,U-Channel
+,2553,Neoprene U-channel,P,oddy_nyul_2553_1.jpg,,,,,NYUL,4/8/2019,"Pass, Permanent",Oddy Test,U-channel for glass panes
+,2553,Neoprene U-channel,P,oddy_nyul_2553_2.jpg,,,,,NYUL,4/8/2019,"Pass, Permanent",Oddy Test,U-channel for glass panes
