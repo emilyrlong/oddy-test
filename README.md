@@ -26,12 +26,12 @@ All of the below code can be downloaded from Google Drive and opened in RStudio 
 
 ### 5.4 - Python Notebooks
 The following are Python notebooks that will open in Google Colab.
-1. Loading JPG Images and saving into NumPy Arrays: [Colab](https://colab.research.google.com/drive/1zqZiduiCZsqz2_RXk4_0lHK86QqwQkcd?usp=sharing)
-2. Loading JPG Images and label CSV files and saving into TFRecords: [Colab](https://colab.research.google.com/drive/16KPhiip1-aVbkXtB4EIAcxZly_i2jmao?usp=sharing)
-3. Moving JPG images or npy files into folders for training, validation, and test sets: [Colab](https://colab.research.google.com/drive/1KCbmnBsWexCSoyjyK-NORb-fNWYKUgQA?usp=sharing)
-4. Code to train the model using the model config. The validation code below should run in parallel with this file: [Colab](https://colab.research.google.com/drive/1Af-wfViKK8BcVQS7O6aMf6ZjRSHwmTWh?usp=sharing)
-5. Code to validate the model and visualise the results in Tensorboard: [Colab](https://colab.research.google.com/drive/1RHVIi5w2RwpWT-wkzyAbmfC5hzbKSgb4?usp=sharing)
-6. Code for visualising the images with errors in the validation and test sets. Also finds the contingency tables shown in the results section: [Colab](https://colab.research.google.com/drive/1IrMfmVYsXveqevfOrtUXEysE-G_S2p10?usp=sharing)
+1. Dissertation_0_Image_Loading.ipynb - Loading JPG Images and saving into NumPy Arrays
+2. Dissertation_0_4_Converting_Image_Files_to_TF_Records.ipynb - Loading JPG Images and label CSV files and saving into TFRecords
+3. Dissertation_0_3_Moving_Image_Files.ipynb - Moving JPG images or npy files into folders for training, validation, and test sets
+4. Dissertation_1_6_Training_with_Full_Configs.ipynb - Code to train the model using the model config. The validation code below should run in parallel with this file.
+5. Dissertation_1_7_Evaluating_the_Full_Configs.ipynb - Code to validate the model and visualise the results in Tensorboard
+6. Dissertation_1_8_Visualising_Box_Labels.ipynb - Code for visualising the images with errors in the validation and test sets. Also finds the contingency tables shown in the results section
 
 ### 5.5 - EffDet Model Configs
 The model configs from EffDet version 1 and 2 can be downloaded from GitHub and opened in a code editor such as Atom or Google Colab.
