@@ -1,7 +1,7 @@
 # oddy-test
 
-# Note:
-## This repository includes version 1 of an Oddy Test Corrosion Detection model, but this repository is not being actively maintained. Tensorflow has deprecated the object detection packages, and more testing has been conducted on the model, so necessary research is being undergone to create the next version. For more information, please contact the co-authors from the Met museum or UCL. 
+## Deprecation
+_Note to users:_ This repository includes version 1 of an Oddy Test Corrosion Detection model, but this repository is not being actively maintained. Tensorflow has deprecated the [object detection packages](https://github.com/tensorflow/models/tree/master/research/object_detection), and more testing has been conducted on the model, so necessary research is being undergone to create the next version. For more information, please contact the co-authors from the Met museum or UCL. 
 
 ## Convolutional Neural Network to Detect Corrosion in Oddy Tests
 
